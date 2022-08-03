@@ -1,0 +1,43 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:wght@300&display=swap');
+
+body {
+    font-family: 'Ubuntu', sans-serif !important;
+    background-color: whitesmoke !important;
+}
+
+.btn-outline-primary {
+    background-color: whitesmoke;
+    border-color: #0079ad;
+    color: #0079ad;
+}
+
+.btn-primary,
+.btn-primary:active,
+.btn-primary:visited,
+.btn-primary:focus {
+    background-color: #078ed6;
+    border-color: #0079ad;
+}
+
+.btn-primary:hover,
+.btn-outline-primary:hover {
+    background-color: #0079ad;
+    border-color: #0079ad;
+}
+
+.btn-round {
+    border-radius: 50%;
+}
+
+.table-primary {
+    color: #0079ad;
+}
+
+.nav-blue {
+    background-color: #0079ad;
+}
+
+h2,
+h3 {
+    color: #078ed6
+}
